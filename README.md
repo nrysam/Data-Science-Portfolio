@@ -9,15 +9,15 @@ My [CV]() in pdf.
 
 
 ## Table of Contents
-[About](https://github.com/nrysam/Data-Science-Portfolio/blob/main/README.md#about)
+- [About](https://github.com/nrysam/Data-Science-Portfolio/blob/main/README.md#about)
 
-[Portfolio Projects](https://github.com/nrysam/Data-Science-Portfolio/blob/main/README.md#portfolio-projects)
+- [Portfolio Projects](https://github.com/nrysam/Data-Science-Portfolio/blob/main/README.md#portfolio-projects)
 
-[Education](https://github.com/nrysam/Data-Science-Portfolio/blob/main/README.md#education)
+- [Education](https://github.com/nrysam/Data-Science-Portfolio/blob/main/README.md#education)
 
-[Certification](https://github.com/nrysam/Data-Science-Portfolio/blob/main/README.md#certification)
+- [Certification](https://github.com/nrysam/Data-Science-Portfolio/blob/main/README.md#certification)
 
-[Contact](https://github.com/nrysam/Data-Science-Portfolio/blob/main/README.md#contact)
+- [Contact](https://github.com/nrysam/Data-Science-Portfolio/blob/main/README.md#contact)
 
 
 ## Portfolio Projects
