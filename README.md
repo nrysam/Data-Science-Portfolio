@@ -5,7 +5,7 @@ I hold a Bachelor of Science in Mechanical Engineering from the Bandung Institut
 
 During my career, I've applied my technical skills in developing Python codes for automating data processes. My projects include developing Python codes that leverage data to drive decision-making and innovation and using Tableau to visualize pandemic trends globally—tools that have been essential in my data-driven journey.
 
-My CV in pdf.
+My [CV]() in pdf.
 
 
 ## Table of Contents
