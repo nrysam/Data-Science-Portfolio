@@ -40,9 +40,9 @@ Bandung Institute of Technology (ITB) : Bachelor of Science, 2015 - 2020
 
 ## Certification
 The best way to showcase skills is by doing and sharing your job done but sometimes certificates appear to be as an indirect result. Here's a list of the ones I have (in reverse-chronological order, with the date of completion in brackets):
-- [DeepLearning.AI TensorFlow Developer](https://www.coursera.org/account/accomplishments/specialization/MB9V3F39KHDV)
-- [Sanbercode Python - Data Science](https://drive.google.com/file/d/1KybHKJjWyMmv62HraneGQdVUSwdMjye2/view)
-- [Myskill - Business Intelligence](https://drive.google.com/file/d/1gBKZcsQ4FDSdom1Oi_jzhcNTbXFk5Vy2/view)
+- [DeepLearning.AI TensorFlow Developer](https://www.coursera.org/account/accomplishments/specialization/MB9V3F39KHDV) (April 2024) (Coursera DeepLearning.Ai)
+- [Myskill - Business Intelligence](https://drive.google.com/file/d/1gBKZcsQ4FDSdom1Oi_jzhcNTbXFk5Vy2/view) (February 2022) (Myskill.id)
+- [Sanbercode Python - Data Science](https://drive.google.com/file/d/1KybHKJjWyMmv62HraneGQdVUSwdMjye2/view) (January 2022) (Sanbercode)
 
 ## Contact
 - **Linkedin** : [@henrysamuelmanurung](https://www.linkedin.com/in/henry-samuel-manurung)
