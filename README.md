@@ -25,7 +25,7 @@ In this section I will list data analytics projects briefly describing the techn
 
 
 ### Forming UCL 22/23 XI of the Tournament Analysis
-**Code** : [Football Analytics Project: Forming XI of the UCL 22/23](https://github.com/nrysam/UCL22_23/edit/main/README.md)
+**Code** : [Football Analytics Project: Forming XI of the UCL 22/23](https://github.com/nrysam/UCL22_23/tree/main)
 
 **Description** : The project focused on analyzing the dataset of football players played in UCL Season 2022/2023. The dataset included statistics from various metrics, such as Goals, Assists, Expected Goals, Key Passes, Total Tackles, Saves and other relevant metrics. It leverages advanced statistical methods and data visualization techniques to evaluate and select the top performers. The analysis is segmented into five Python scripts, each serving a distinct purpose towards the final selection of players.
 
