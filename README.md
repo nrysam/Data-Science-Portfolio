@@ -25,7 +25,7 @@ In this section I will list data analytics projects briefly describing the techn
 
 
 ### Forming UCL 22/23 XI of the Tournament Analysis
-**Code** : [Football Analytics Project: Forming XI of the UCL 22/23](https://github.com/nrysam/UCL22_23/tree/main)
+**Code** : [Football Analytics Project: Forming XI of the UCL 22/23](https://github.com/nrysam/UCL22_23)
 
 **Description** : The project focused on analyzing the dataset of football players played in UCL Season 2022/2023. The dataset included statistics from various metrics, such as Goals, Assists, Expected Goals, Key Passes, Total Tackles, Saves and other relevant metrics. It leverages advanced statistical methods and data visualization techniques to evaluate and select the top performers. The analysis is segmented into five Python scripts, each serving a distinct purpose towards the final selection of players.
 
@@ -35,8 +35,21 @@ In this section I will list data analytics projects briefly describing the techn
 
 **Result** : Delivers interactive visualizations such as heatmaps, bar plots, radar charts, and violin plots, aiding in the insightful comparison and selection of top performers. The final output includes a dynamically generated "Best XI" team, showcasing the capabilities of data-driven decision-making in sports analytics.
 
+
+### CNN-based Car Part Identifier: A Machine Learning Approach
+**Code** : [CNN-based Car Part Identifier: A Machine Learning Approach](https://github.com/nrysam/CNN-Car-Parts)
+
+**Description** : The project develops a CNN-based car part identifier to accurately classify images into 50 different categories of car components. Using a comprehensive dataset of car part images, the model leverages convolutional neural networks to learn distinctive features of each part, enhancing the automation and efficiency in automotive industry tasks such as inventory management and quality control. The model architecture includes several convolutional layers, pooling layers, and dropout layers to mitigate overfitting, culminating in a dense layer for classification. The project is segmented into multiple scripts handling data preprocessing, model training, performance evaluation, and result visualization.
+
+**Skills** : Image Data Preprocessing, Deep Learning Model Design, Convolutional Neural Network, Model Training and Validation, Performance Metrics Evaluation, Data Visualization
+
+**Technology** : Python, TensorFlow, Keras, Numpy, Matplotlib, Seaborn, Scikit-learn
+
+**Result** : The final model achieves a robust classification accuracy, demonstrated through detailed accuracy and loss graphs over training epochs, as well as a confusion matrix illustrating class-wise performance. The evaluation on the test dataset confirms the model's effectiveness, supported by a comprehensive classification report that provides precision, recall, and F1-scores for each car part category. This showcases the model's capability to support real-world applications in the automotive sector by facilitating rapid and accurate car part identification.
+
+
 ## Education
-Bandung Institute of Technology (ITB) : Bachelor of Science, 2015 - 2020
+Bandung Institute of Technology (ITB) : Bachelor of Science, Aug 2015 - Jan 2020
 
 ## Certification
 The best way to showcase skills is by doing and sharing your job done but sometimes certificates appear to be as an indirect result. Here's a list of the ones I have (in reverse-chronological order, with the date of completion in brackets):
