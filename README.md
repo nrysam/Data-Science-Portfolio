@@ -36,6 +36,7 @@ In this section I will list data analytics projects briefly describing the techn
 **Result** : Delivers interactive visualizations such as heatmaps, bar plots, radar charts, and violin plots, aiding in the insightful comparison and selection of top performers. The final output includes a dynamically generated "Best XI" team, showcasing the capabilities of data-driven decision-making in sports analytics.
 
 
+
 ### CNN-based Car Part Identifier: A Machine Learning Approach
 **Code** : [CNN-based Car Part Identifier: A Machine Learning Approach](https://github.com/nrysam/CNN-Car-Parts)
 
