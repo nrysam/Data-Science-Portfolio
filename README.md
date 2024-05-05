@@ -48,6 +48,17 @@ In this section I will list data analytics projects briefly describing the techn
 
 **Result** : The final model achieves a robust classification accuracy, demonstrated through detailed accuracy and loss graphs over training epochs, as well as a confusion matrix illustrating class-wise performance. The evaluation on the test dataset confirms the model's effectiveness, supported by a comprehensive classification report that provides precision, recall, and F1-scores for each car part category. This showcases the model's capability to support real-world applications in the automotive sector by facilitating rapid and accurate car part identification.
 
+### LSTM-based Yelp Review Sentiment Analysis
+**Code** : [Sentiment Analysis Yelp Review](https://github.com/nrysam/sentiment_yelp))
+
+**Description** : This project is centered around analyzing Yelp reviews using a deep learning approach to categorize sentiments as positive or negative. Utilizing a dataset of fine-grained sentiment classification from Yelp reviews, the model employs LSTM (Long Short-Term Memory) networks to accurately determine the underlying sentiment. The process is methodically divided into several scripts covering data preparation, model training, sentiment prediction, and evaluation.
+
+**Skills** : Natural Language Processing, LSTM, Sentiment Analysis, Data Preprocessing, Model Optimization
+
+**Technology** : Python, TensorFlow, Keras, Pandas, Matplotlib
+
+**Result** : Achieves detailed sentiment analysis with the capability to identify nuanced expressions in reviews. The project culminates in precise sentiment delineation, represented through accuracy and loss metrics over multiple epochs, complemented by visual graphs that illustrate the model’s performance on both training and validation sets. This facilitates a robust understanding of consumer opinions, beneficial for businesses monitoring customer satisfaction.
+
 
 ## Education
 Bandung Institute of Technology (ITB) : Bachelor of Science, Aug 2015 - Jan 2020
