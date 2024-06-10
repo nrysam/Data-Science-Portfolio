@@ -23,30 +23,17 @@ My [CV](https://github.com/nrysam/Data-Science-Portfolio/blob/main/Resume%20(Dat
 ## Portfolio Projects
 In this section I will list data analytics projects briefly describing the technology stack used to solve cases.
 
+### Face Fatigue / Drowsiness Detection
+**Code** : [Face Fatigue Detection](https://github.com/nrysam/Face-Fatigue-Detection/)
 
-### Forming UCL 22/23 XI of the Tournament Analysis
-**Code** : [Football Analytics Project: Forming XI of the UCL 22/23](https://github.com/nrysam/UCL22_23)
+**Description** : Face Fatigue Detection is an application that uses a combination of face recognition and fatigue detection models to identify users and determine their fatigue status based on video input from a webcam. The system utilizes YOLOv5 for face detection and a ResNet-based model for fatigue classification.
 
-**Description** : The project focused on analyzing the dataset of football players played in UCL Season 2022/2023. The dataset included statistics from various metrics, such as Goals, Assists, Expected Goals, Key Passes, Total Tackles, Saves and other relevant metrics. It leverages advanced statistical methods and data visualization techniques to evaluate and select the top performers. The analysis is segmented into five Python scripts, each serving a distinct purpose towards the final selection of players.
+**Skills** : Face Detection, Database Design, Deep Learning, Fatigue Analysis, Deployment
 
-**Skills** : Data Cleansing, Data Preprocessing, Advanced Data Visualization, Statistical Analysis, Predictive Modeling
+**Technology** : Python, PyTorch, Face Recognition, NumPy, OpenCV, MySQL, YOLOv5, Docker, Git
 
-**Technology** : Python, Pandas, Numpy, Matplotlib, Bokeh, Scikit-learn
+**Result** : Real-Time Fatigue / Drowsiness Detection based on video input from a webcam with frame detects the face and give the status of the face, whether it is an active (fit) or fatigue (drowsy/unfit).
 
-**Result** : Delivers interactive visualizations such as heatmaps, bar plots, radar charts, and violin plots, aiding in the insightful comparison and selection of top performers. The final output includes a dynamically generated "Best XI" team, showcasing the capabilities of data-driven decision-making in sports analytics.
-
-
-
-### CNN-based Car Part Identifier: A Machine Learning Approach
-**Code** : [CNN-based Car Part Identifier: A Machine Learning Approach](https://github.com/nrysam/CNN-Car-Parts)
-
-**Description** : The project develops a CNN-based car part identifier to accurately classify images into 50 different categories of car components. Using a comprehensive dataset of car part images, the model leverages convolutional neural networks to learn distinctive features of each part, enhancing the automation and efficiency in automotive industry tasks such as inventory management and quality control. The model architecture includes several convolutional layers, pooling layers, and dropout layers to mitigate overfitting, culminating in a dense layer for classification. The project is segmented into multiple scripts handling data preprocessing, model training, performance evaluation, and result visualization.
-
-**Skills** : Image Data Preprocessing, Deep Learning Model Design, Convolutional Neural Network, Model Training and Validation, Performance Metrics Evaluation, Data Visualization
-
-**Technology** : Python, TensorFlow, Keras, Numpy, Matplotlib, Seaborn, Scikit-learn
-
-**Result** : The final model achieves a robust classification accuracy, demonstrated through detailed accuracy and loss graphs over training epochs, as well as a confusion matrix illustrating class-wise performance. The evaluation on the test dataset confirms the model's effectiveness, supported by a comprehensive classification report that provides precision, recall, and F1-scores for each car part category. This showcases the model's capability to support real-world applications in the automotive sector by facilitating rapid and accurate car part identification.
 
 ### LSTM-based Yelp Review Sentiment Analysis
 **Code** : [Sentiment Analysis Yelp Review](https://github.com/nrysam/sentiment_yelp))
@@ -60,8 +47,32 @@ In this section I will list data analytics projects briefly describing the techn
 **Result** : Achieves detailed sentiment analysis with the capability to identify nuanced expressions in reviews. The project culminates in precise sentiment delineation, represented through accuracy and loss metrics over multiple epochs, complemented by visual graphs that illustrate the model’s performance on both training and validation sets. This facilitates a robust understanding of consumer opinions, beneficial for businesses monitoring customer satisfaction.
 
 
+### CNN-based Car Part Identifier: A Machine Learning Approach
+**Code** : [CNN-based Car Part Identifier: A Machine Learning Approach](https://github.com/nrysam/CNN-Car-Parts)
+
+**Description** : The project develops a CNN-based car part identifier to accurately classify images into 50 different categories of car components. Using a comprehensive dataset of car part images, the model leverages convolutional neural networks to learn distinctive features of each part, enhancing the automation and efficiency in automotive industry tasks such as inventory management and quality control. The model architecture includes several convolutional layers, pooling layers, and dropout layers to mitigate overfitting, culminating in a dense layer for classification. The project is segmented into multiple scripts handling data preprocessing, model training, performance evaluation, and result visualization.
+
+**Skills** : Image Data Preprocessing, Deep Learning Model Design, Convolutional Neural Network, Model Training and Validation, Performance Metrics Evaluation, Data Visualization
+
+**Technology** : Python, TensorFlow, Keras, Numpy, Matplotlib, Seaborn, Scikit-learn
+
+**Result** : The final model achieves a robust classification accuracy, demonstrated through detailed accuracy and loss graphs over training epochs, as well as a confusion matrix illustrating class-wise performance. The evaluation on the test dataset confirms the model's effectiveness, supported by a comprehensive classification report that provides precision, recall, and F1-scores for each car part category. This showcases the model's capability to support real-world applications in the automotive sector by facilitating rapid and accurate car part identification.
+
+
+### Forming UCL 22/23 XI of the Tournament Analysis
+**Code** : [Football Analytics Project: Forming XI of the UCL 22/23](https://github.com/nrysam/UCL22_23)
+
+**Description** : The project focused on analyzing the dataset of football players played in UCL Season 2022/2023. The dataset included statistics from various metrics, such as Goals, Assists, Expected Goals, Key Passes, Total Tackles, Saves and other relevant metrics. It leverages advanced statistical methods and data visualization techniques to evaluate and select the top performers. The analysis is segmented into five Python scripts, each serving a distinct purpose towards the final selection of players.
+
+**Skills** : Data Cleansing, Data Preprocessing, Advanced Data Visualization, Statistical Analysis, Predictive Modeling
+
+**Technology** : Python, Pandas, Numpy, Matplotlib, Bokeh, Scikit-learn
+
+**Result** : Delivers interactive visualizations such as heatmaps, bar plots, radar charts, and violin plots, aiding in the insightful comparison and selection of top performers. The final output includes a dynamically generated "Best XI" team, showcasing the capabilities of data-driven decision-making in sports analytics.
+
+
 ## Education
-Bandung Institute of Technology (ITB) : Bachelor of Science, Aug 2015 - Jan 2020
+Bandung Institute of Technology (ITB) : Bachelor of Science
 
 ## Certification
 The best way to showcase skills is by doing and sharing your job done but sometimes certificates appear to be as an indirect result. Here's a list of the ones I have (in reverse-chronological order, with the date of completion in brackets):
