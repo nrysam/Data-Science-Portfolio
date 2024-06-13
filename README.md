@@ -23,6 +23,17 @@ My [CV](https://github.com/nrysam/Data-Science-Portfolio/blob/main/Resume%20(Dat
 ## Portfolio Projects
 In this section I will list data analytics projects briefly describing the technology stack used to solve cases.
 
+### Face Recognition Attendance
+**Code** : [Face Recognition Attendance](https://github.com/nrysam/Face-Recognition-Attendance)
+
+**Description** : This project implements a sophisticated attendance tracking system using face recognition technology. Leveraging OpenCV for image processing and the Face Recognition library for detecting and encoding facial features, the system integrates with Firebase for real-time database and storage management. The workflow encompasses face registration, encoding, and real-time attendance monitoring, ensuring accurate and efficient attendance logging.
+
+**Skills** : Computer Vision, Face Recognition, Real-Time Processing, Database Management, Image Encoding, Data Integration
+
+**Technology** : Python, OpenCV, face_recognition, Firebase, cvzone, numpy
+
+**Result** : The system successfully captures and registers faces, encodes them for recognition, and updates attendance records in real-time. It showcases high accuracy in recognizing registered employees and effectively logs attendance with a minimal error rate. The project demonstrates robust integration with Firebase for database management and storage, providing a seamless and automated solution for attendance tracking in organizational settings.
+
 ### Face Fatigue / Drowsiness Detection
 **Code** : [Face Fatigue Detection](https://github.com/nrysam/Face-Fatigue-Detection/)
 
