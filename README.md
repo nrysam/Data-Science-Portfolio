@@ -30,7 +30,7 @@ In this section I will list data analytics projects briefly describing the techn
 
 **Skills** : Computer Vision, Face Recognition, Real-Time Processing, Database Management, Image Encoding, Data Integration
 
-**Technology** : Python, OpenCV, face_recognition, Firebase, cvzone, numpy
+**Technology** : Python, Flask, OpenCV, face_recognition, Firebase, cvzone, numpy
 
 **Result** : The system successfully captures and registers faces, encodes them for recognition, and updates attendance records in real-time. It showcases high accuracy in recognizing registered employees and effectively logs attendance with a minimal error rate. The project demonstrates robust integration with Firebase for database management and storage, providing a seamless and automated solution for attendance tracking in organizational settings.
 
