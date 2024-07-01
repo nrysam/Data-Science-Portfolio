@@ -23,6 +23,17 @@ My [CV](https://github.com/nrysam/Data-Science-Portfolio/blob/main/Resume%20(Dat
 ## Portfolio Projects
 In this section I will list data analytics projects briefly describing the technology stack used to solve cases.
 
+### Cryptocurrency Chatbot
+**Code** : [Cryptocurrency Chatbot](https://github.com/nrysam/crypto-chatbot)
+
+**Description** : This project involves the development of an interactive chatbot designed to provide users with real-time information about cryptocurrencies. Utilizing Rasa for natural language understanding and dialogue management, the chatbot integrates with Firebase to fetch and store cryptocurrency data. The frontend is built with Flask, offering a user-friendly interface for seamless interaction. The system supports a range of functionalities including answering queries about various cryptocurrencies, their prices, market cap, trading volume, and more.
+
+**Skills** : Natural Language Processing, Chatbot Development, Real-Time Data Fetching, Database Management, Web Development, Data Integration
+
+**Technology** : Python, Flask, Rasa, Firebase, Pandas, scikit-learn
+
+**Result** : The Crypto Chatbot effectively fetches and provides real-time cryptocurrency information to users. It demonstrates the capability to handle user queries with accuracy, leveraging Rasa for understanding and managing conversations. The integration with Firebase ensures that the data is always up-to-date, making the chatbot a reliable source for cryptocurrency information. The project showcases strong integration between various technologies, resulting in a responsive and informative chatbot for crypto enthusiasts.
+
 ### Face Recognition Attendance
 **Code** : [Face Recognition Attendance](https://github.com/nrysam/Face-Recognition-Attendance)
 
