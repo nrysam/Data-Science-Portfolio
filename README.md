@@ -23,6 +23,17 @@ My [CV](https://github.com/nrysam/Data-Science-Portfolio/blob/main/Resume%20(Dat
 ## Portfolio Projects
 In this section I will list data analytics projects briefly describing the technology stack used to solve cases.
 
+### Booking Appointment Agent
+**Code** : [Booking Appointment](https://github.com/nrysam/Booking_Appointment_Agent)
+
+**Description**: This project centers around the development of a smart booking appointment agent capable of handling human-like conversations to schedule, check availability, and cancel bookings. The agent uses OpenAI's GPT-4o-mini model to understand and manage user interactions, ensuring a seamless booking experience. The system integrates with Firebase for storing and managing appointment data, with additional features like data backup and booking cancellation. The frontend is built using Flask, providing a user-friendly interface, while the backend processes are managed through robust intent detection and time parsing functionalities.
+
+**Skills**: Natural Language Processing, Chatbot Development, Appointment Management, Database Integration, Web Development, Data Parsing, Intent Detection
+
+**Technology**: Python, Flask, OpenAI GPT-4o-mini, Firebase, Pandas, Tempfile, JSON, Gunicorn
+
+**Result**: The Booking Appointment Agent effectively manages appointments, handles user queries with high accuracy, and provides a responsive and interactive experience. The integration with Firebase ensures reliable data management and backup, while the use of GPT-4o-mini for intent detection allows the agent to accurately understand and respond to user requests. The project highlights advanced integration between conversational AI and appointment management systems, making it a valuable tool for businesses needing automated booking solutions.
+
 ### Cryptocurrency Chatbot
 **Code** : [Cryptocurrency Chatbot](https://github.com/nrysam/crypto-chatbot)
 
